@@ -1,6 +1,3 @@
-function changesize(){
-document.getElementById("heading").style.fontSize="100px";
-}
-function changecolorpurple(){
-document.getElementById("paragraph").style.color="purple";
+function setdate(){
+document.getElementById("date").innerHTML=new date(). toDateString();
 }
