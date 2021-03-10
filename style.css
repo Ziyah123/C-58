@@ -104,7 +104,12 @@ a {
 }
 
 .article:hover {
-    color:fuchsia;
+    color:fuchsia;}
+img{
+height: 410px;
+width: 500px;
 }
+
+    
 
 
